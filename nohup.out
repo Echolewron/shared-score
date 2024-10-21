@@ -1,0 +1,2028 @@
+172.17.0.3 - - [27/May/2024 23:00:38] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [27/May/2024 23:00:52] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [27/May/2024 23:00:58] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [27/May/2024 23:00:58] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [27/May/2024 23:00:59] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [27/May/2024 23:00:59] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [27/May/2024 23:00:59] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [27/May/2024 23:01:02] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [27/May/2024 23:01:02] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [27/May/2024 23:01:03] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [27/May/2024 23:01:03] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [27/May/2024 23:01:09] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [28/May/2024 20:46:42] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [28/May/2024 20:46:42] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [28/May/2024 20:46:42] code 404, message File not found
+172.17.0.3 - - [28/May/2024 20:46:42] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [28/May/2024 20:46:42] code 404, message File not found
+172.17.0.3 - - [28/May/2024 20:46:42] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [28/May/2024 20:46:42] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [28/May/2024 20:46:42] code 404, message File not found
+172.17.0.3 - - [28/May/2024 20:46:42] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [28/May/2024 20:46:42] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [28/May/2024 20:47:41] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [28/May/2024 20:47:56] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [28/May/2024 20:55:15] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [28/May/2024 20:55:16] code 404, message File not found
+172.17.0.3 - - [28/May/2024 20:55:16] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [28/May/2024 23:56:36] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [28/May/2024 23:56:37] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [28/May/2024 23:56:37] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [28/May/2024 23:56:37] code 404, message File not found
+172.17.0.3 - - [28/May/2024 23:56:37] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 14:07:46] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 14:07:46] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 14:07:46] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 14:07:46] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 14:07:47] code 404, message File not found
+172.17.0.3 - - [30/May/2024 14:07:47] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 14:07:47] code 404, message File not found
+172.17.0.3 - - [30/May/2024 14:07:47] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 14:07:47] code 404, message File not found
+172.17.0.3 - - [30/May/2024 14:07:47] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 14:40:08] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 14:40:08] code 404, message File not found
+172.17.0.3 - - [30/May/2024 14:40:08] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 14:46:13] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 15:16:10] code 404, message File not found
+172.17.0.3 - - [30/May/2024 15:16:10] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 15:16:10] code 404, message File not found
+172.17.0.3 - - [30/May/2024 15:16:10] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 15:16:10] code 404, message File not found
+172.17.0.3 - - [30/May/2024 15:16:10] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 15:16:10] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 17:42:06] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 17:42:06] "GET /script.js HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 17:42:06] code 404, message File not found
+172.17.0.3 - - [30/May/2024 17:42:06] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 17:42:06] code 404, message File not found
+172.17.0.3 - - [30/May/2024 17:42:06] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 17:42:06] code 404, message File not found
+172.17.0.3 - - [30/May/2024 17:42:06] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 17:42:06] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 17:42:08] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 17:42:08] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 17:42:12] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 17:42:12] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 17:42:25] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 17:42:26] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 17:42:26] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [30/May/2024 17:42:26] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 18:44:57] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 18:44:58] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 18:44:58] code 404, message File not found
+172.17.0.3 - - [30/May/2024 18:44:58] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 18:44:58] code 404, message File not found
+172.17.0.3 - - [30/May/2024 18:44:58] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 18:44:58] code 404, message File not found
+172.17.0.3 - - [30/May/2024 18:44:58] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 18:45:01] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 18:45:01] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 18:45:07] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 18:45:07] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 18:45:14] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 18:50:32] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 18:50:49] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [30/May/2024 18:51:10] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 18:51:10] code 404, message File not found
+172.17.0.3 - - [30/May/2024 18:51:10] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 18:55:58] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 18:56:01] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [30/May/2024 18:56:26] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 18:57:17] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 18:57:17] code 404, message File not found
+172.17.0.3 - - [30/May/2024 18:57:17] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [30/May/2024 19:00:17] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [30/May/2024 19:00:17] "GET /script.js HTTP/1.1" 304 -
+172.17.0.3 - - [30/May/2024 19:01:58] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [30/May/2024 19:02:27] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:03:11] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:03:11] "GET /script.js HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:03:11] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:03:11] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:03:25] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [30/May/2024 19:03:37] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:03:43] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:04:00] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:04:01] code 404, message File not found
+172.17.0.3 - - [30/May/2024 19:04:01] code 404, message File not found
+172.17.0.3 - - [30/May/2024 19:04:01] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 19:04:01] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 19:04:01] code 404, message File not found
+172.17.0.3 - - [30/May/2024 19:04:01] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:04:01] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 19:04:03] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:04:03] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:04:11] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [30/May/2024 19:04:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [30/May/2024 19:22:32] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [30/May/2024 19:22:32] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [30/May/2024 19:22:32] "GET /script.js HTTP/1.1" 200 -
+127.0.0.1 - - [30/May/2024 19:22:32] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [30/May/2024 19:22:32] code 404, message File not found
+127.0.0.1 - - [30/May/2024 19:22:32] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [30/May/2024 19:23:14] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:23:22] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:23:22] code 404, message File not found
+172.17.0.3 - - [30/May/2024 19:23:22] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 19:24:02] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:24:02] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:24:02] code 404, message File not found
+172.17.0.3 - - [30/May/2024 19:24:02] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 19:24:02] code 404, message File not found
+172.17.0.3 - - [30/May/2024 19:24:02] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 19:24:12] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:24:12] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:24:12] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:24:13] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:24:13] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:24:13] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:24:14] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:24:14] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 19:25:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [30/May/2024 19:26:19] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [30/May/2024 19:26:19] "GET /script.js HTTP/1.1" 304 -
+127.0.0.1 - - [30/May/2024 19:26:22] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [30/May/2024 19:26:25] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [30/May/2024 19:28:19] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 20:47:03] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 20:47:06] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 20:49:08] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 21:10:56] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 21:10:57] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [30/May/2024 21:10:57] "GET /script.js HTTP/1.1" 304 -
+172.17.0.3 - - [30/May/2024 21:10:57] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [30/May/2024 21:10:58] code 404, message File not found
+172.17.0.3 - - [30/May/2024 21:10:58] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 21:11:29] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 21:49:27] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 21:49:27] code 404, message File not found
+172.17.0.3 - - [30/May/2024 21:49:27] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 21:49:27] code 404, message File not found
+172.17.0.3 - - [30/May/2024 21:49:27] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 21:49:27] code 404, message File not found
+172.17.0.3 - - [30/May/2024 21:49:27] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 21:49:27] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 22:00:05] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 22:00:05] code 404, message File not found
+172.17.0.3 - - [30/May/2024 22:00:05] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 22:00:24] code 404, message File not found
+172.17.0.3 - - [30/May/2024 22:00:24] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 22:00:24] code 404, message File not found
+172.17.0.3 - - [30/May/2024 22:00:24] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 22:00:50] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 23:09:16] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 23:09:17] code 404, message File not found
+172.17.0.3 - - [30/May/2024 23:09:17] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/May/2024 23:09:35] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/May/2024 23:09:38] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [31/May/2024 02:48:30] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [31/May/2024 02:48:30] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [31/May/2024 02:48:30] "GET /script.js HTTP/1.1" 304 -
+172.17.0.3 - - [31/May/2024 02:48:31] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [31/May/2024 02:48:31] code 404, message File not found
+172.17.0.3 - - [31/May/2024 02:48:31] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [31/May/2024 06:18:11] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [31/May/2024 06:18:11] "GET /script.js HTTP/1.1" 304 -
+172.17.0.3 - - [31/May/2024 06:18:11] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [31/May/2024 06:18:11] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [31/May/2024 06:18:11] code 404, message File not found
+172.17.0.3 - - [31/May/2024 06:18:11] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [31/May/2024 07:41:04] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [31/May/2024 07:41:05] code 404, message File not found
+172.17.0.3 - - [31/May/2024 07:41:05] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [31/May/2024 07:41:05] code 404, message File not found
+172.17.0.3 - - [31/May/2024 07:41:05] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [31/May/2024 07:41:05] code 404, message File not found
+172.17.0.3 - - [31/May/2024 07:41:05] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [31/May/2024 07:41:05] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [31/May/2024 08:54:39] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [31/May/2024 08:54:39] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [31/May/2024 08:54:39] "GET /script.js HTTP/1.1" 304 -
+172.17.0.3 - - [31/May/2024 08:54:39] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [31/May/2024 10:51:37] code 404, message File not found
+172.17.0.3 - - [31/May/2024 10:51:37] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [31/May/2024 22:24:23] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [31/May/2024 22:24:23] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [31/May/2024 22:24:23] "GET /script.js HTTP/1.1" 304 -
+172.17.0.3 - - [31/May/2024 22:24:23] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jun/2024 10:39:13] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [01/Jun/2024 10:39:14] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jun/2024 10:39:14] "GET /script.js HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jun/2024 10:39:14] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jun/2024 10:39:14] code 404, message File not found
+172.17.0.3 - - [01/Jun/2024 10:39:14] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jun/2024 10:39:14] code 404, message File not found
+172.17.0.3 - - [01/Jun/2024 10:39:14] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jun/2024 10:39:14] code 404, message File not found
+172.17.0.3 - - [01/Jun/2024 10:39:14] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jun/2024 10:39:14] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [01/Jun/2024 13:19:50] "GET /script.js HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jun/2024 13:19:50] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jun/2024 13:19:50] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jun/2024 13:19:50] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [01/Jun/2024 13:19:50] code 404, message File not found
+172.17.0.3 - - [01/Jun/2024 13:19:50] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jun/2024 13:19:50] code 404, message File not found
+172.17.0.3 - - [01/Jun/2024 13:19:50] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jun/2024 13:19:50] code 404, message File not found
+172.17.0.3 - - [01/Jun/2024 13:19:50] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jun/2024 21:37:02] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [01/Jun/2024 21:37:02] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jun/2024 21:37:02] "GET /script.js HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jun/2024 21:37:03] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jun/2024 21:39:51] code 404, message File not found
+172.17.0.3 - - [01/Jun/2024 21:39:51] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jun/2024 23:56:24] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jun/2024 23:56:25] "GET /script.js HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jun/2024 23:56:25] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jun/2024 23:56:27] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [01/Jun/2024 23:56:27] code 404, message File not found
+172.17.0.3 - - [01/Jun/2024 23:56:27] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jun/2024 23:56:27] code 404, message File not found
+172.17.0.3 - - [01/Jun/2024 23:56:27] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jun/2024 23:56:27] code 404, message File not found
+172.17.0.3 - - [01/Jun/2024 23:56:27] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jun/2024 23:56:27] code 404, message File not found
+172.17.0.3 - - [01/Jun/2024 23:56:27] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jun/2024 23:56:48] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 08:40:15] "GET /presentations HTTP/1.1" 301 -
+172.17.0.3 - - [02/Jun/2024 08:40:16] "GET /presentations/ HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 08:40:16] code 404, message File not found
+172.17.0.3 - - [02/Jun/2024 08:40:16] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [02/Jun/2024 08:40:25] "GET /presentations/test-presentation.pptx HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 08:41:18] "GET /presentations/test-presentation.pptx HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 08:53:17] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 08:53:17] "GET /script.js HTTP/1.1" 304 -
+172.17.0.3 - - [02/Jun/2024 08:53:17] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 08:53:17] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [02/Jun/2024 08:53:17] "GET /images/arrow_up.png HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 08:53:18] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 10:08:03] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 10:08:07] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 10:08:11] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 10:08:19] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 10:08:25] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 10:08:30] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('172.17.0.3', 40360)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('172.17.0.3', 44818)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+172.17.0.3 - - [02/Jun/2024 10:08:40] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('172.17.0.3', 44830)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+172.17.0.3 - - [02/Jun/2024 10:08:47] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('172.17.0.3', 48828)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('172.17.0.3', 48836)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+172.17.0.3 - - [02/Jun/2024 10:08:55] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('172.17.0.3', 49412)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+172.17.0.3 - - [02/Jun/2024 10:09:09] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('172.17.0.3', 41116)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+172.17.0.3 - - [02/Jun/2024 10:09:13] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 10:09:17] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('172.17.0.3', 58226)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('172.17.0.3', 58238)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('172.17.0.3', 49874)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('172.17.0.3', 49878)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('172.17.0.3', 48614)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+172.17.0.3 - - [02/Jun/2024 11:44:21] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 11:44:21] "GET /script.js HTTP/1.1" 304 -
+172.17.0.3 - - [02/Jun/2024 11:44:21] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [02/Jun/2024 11:44:21] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [02/Jun/2024 11:44:21] "GET /images/arrow_up.png HTTP/1.1" 304 -
+172.17.0.3 - - [02/Jun/2024 11:44:21] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 12:08:18] code 404, message File not found
+172.17.0.3 - - [02/Jun/2024 12:08:18] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [02/Jun/2024 12:08:22] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [02/Jun/2024 12:08:22] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [02/Jun/2024 12:08:26] "GET /presentations/3SD%20-%20bulletin%20board%20(minimized).ppsx HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('172.17.0.3', 45492)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/http/server.py", line 1310, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.11/http/server.py", line 671, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 678, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 877, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+172.17.0.3 - - [02/Jun/2024 15:04:09] "GET /presentations/3sdmin.ppsx HTTP/1.1" 200 -
+172.17.0.3 - - [04/Jun/2024 15:55:04] "GET /presentations/3sdmin.ppsx HTTP/1.1" 200 -
+172.17.0.3 - - [04/Jun/2024 21:23:42] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [04/Jun/2024 21:23:42] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [04/Jun/2024 21:23:42] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [04/Jun/2024 21:23:43] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [04/Jun/2024 21:23:43] "GET /images/arrow_up.png HTTP/1.1" 200 -
+172.17.0.3 - - [04/Jun/2024 21:23:43] code 404, message File not found
+172.17.0.3 - - [04/Jun/2024 21:23:43] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [04/Jun/2024 21:23:43] code 404, message File not found
+172.17.0.3 - - [04/Jun/2024 21:23:43] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [04/Jun/2024 21:23:43] code 404, message File not found
+172.17.0.3 - - [04/Jun/2024 21:23:43] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [04/Jun/2024 21:23:43] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [04/Jun/2024 21:23:43] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [04/Jun/2024 21:24:20] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jun/2024 21:27:14] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jun/2024 21:27:14] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jun/2024 21:27:14] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jun/2024 21:27:14] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jun/2024 21:27:14] "GET /images/arrow_up.png HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jun/2024 21:27:15] code 404, message File not found
+172.17.0.3 - - [05/Jun/2024 21:27:15] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [05/Jun/2024 21:27:15] code 404, message File not found
+172.17.0.3 - - [05/Jun/2024 21:27:15] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [05/Jun/2024 21:27:15] code 404, message File not found
+172.17.0.3 - - [05/Jun/2024 21:27:15] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [05/Jun/2024 21:27:15] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jun/2024 21:27:15] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jun/2024 21:31:53] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jun/2024 21:31:54] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jun/2024 21:32:37] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jun/2024 07:25:05] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jun/2024 07:25:05] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 07:25:05] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 15:17:49] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jun/2024 15:17:49] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 15:17:49] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 15:17:50] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 15:17:50] "GET /images/arrow_up.png HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 15:17:50] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 16:57:33] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jun/2024 16:57:34] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jun/2024 16:57:50] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jun/2024 17:04:25] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 17:17:11] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jun/2024 17:17:13] code 404, message File not found
+172.17.0.3 - - [06/Jun/2024 17:17:13] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [06/Jun/2024 17:17:13] code 404, message File not found
+172.17.0.3 - - [06/Jun/2024 17:17:13] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [06/Jun/2024 17:17:13] code 404, message File not found
+172.17.0.3 - - [06/Jun/2024 17:17:13] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jun/2024 17:17:13] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [06/Jun/2024 19:16:21] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jun/2024 19:16:21] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 19:16:21] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jun/2024 19:16:21] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jun/2024 19:16:24] "GET /images/arrow_up.png HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 19:16:24] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 19:16:26] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 22:28:00] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 22:28:00] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 22:28:00] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 22:28:00] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 22:28:00] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 22:28:00] "GET /images/arrow_up.png HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jun/2024 22:33:03] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 11:30:08] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 11:30:08] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [07/Jun/2024 11:30:08] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [07/Jun/2024 11:30:08] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [07/Jun/2024 11:30:08] "GET /images/arrow_up.png HTTP/1.1" 304 -
+172.17.0.3 - - [07/Jun/2024 11:30:08] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2024 15:32:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2024 15:32:13] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2024 15:32:13] "GET /leaderboard.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2024 15:32:13] "GET /slideshow-script.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2024 15:32:14] "GET /images/arrow_up.png HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2024 15:32:14] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2024 15:32:17] "GET /favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2024 15:35:05] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2024 15:35:30] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [07/Jun/2024 16:09:58] "GET /presentations HTTP/1.1" 301 -
+172.17.0.3 - - [07/Jun/2024 16:09:58] "GET /presentations/ HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 16:09:58] code 404, message File not found
+172.17.0.3 - - [07/Jun/2024 16:09:58] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [07/Jun/2024 16:10:00] "GET /presentations/testpre.pptx HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 16:10:20] "GET /presentations/testpre.pptx HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 16:54:24] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 16:54:24] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [07/Jun/2024 16:54:24] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [07/Jun/2024 16:54:24] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 16:54:24] "GET /images/arrow_up.png HTTP/1.1" 304 -
+172.17.0.3 - - [07/Jun/2024 16:54:24] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2024 19:10:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2024 19:10:49] "GET /style.css HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2024 19:10:50] "GET /leaderboard.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2024 19:10:50] "GET /slideshow-script.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2024 19:10:50] "GET /images/arrow_up.png HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2024 19:11:32] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2024 19:12:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2024 19:12:41] "GET / HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 19:13:47] "GET / HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:13:47] "GET /slideshow-script.js HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:13:47] "GET /style.css HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:13:47] "GET /leaderboard.js HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:13:48] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:13:48] "GET /images/arrow_up.png HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:13:49] "GET /favicon.png HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:13:50] "GET / HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 19:14:02] "GET / HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 19:14:02] "GET /slideshow-script.js HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 19:14:15] "GET / HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 19:14:25] "GET / HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:14:25] "GET /style.css HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:14:25] "GET /leaderboard.js HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:14:25] "GET /slideshow-script.js HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:14:25] "GET /images/arrow_up.png HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:14:25] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:14:26] "GET /favicon.png HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:15:04] "GET / HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 19:15:04] "GET /slideshow-script.js HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 19:15:12] "GET / HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 19:16:45] "GET / HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:16:45] "GET /slideshow-script.js HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 19:17:56] "GET / HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:17:56] "GET /slideshow-script.js HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 19:26:33] "GET / HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:26:33] "GET /slideshow-script.js HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 19:55:09] "GET / HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 19:55:09] "GET /slideshow-script.js HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 19:55:28] "GET / HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 20:01:44] "GET / HTTP/1.1" 200 -
+192.168.1.162 - - [07/Jun/2024 20:01:44] "GET /slideshow-script.js HTTP/1.1" 304 -
+192.168.1.162 - - [07/Jun/2024 20:02:31] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [07/Jun/2024 20:24:25] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 20:24:25] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [07/Jun/2024 20:24:25] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 20:24:25] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 20:24:26] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 20:24:26] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [07/Jun/2024 20:24:26] "GET /images/arrow_up.png HTTP/1.1" 304 -
+172.17.0.3 - - [07/Jun/2024 20:24:27] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 20:24:27] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 20:24:27] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 20:24:30] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 20:24:32] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jun/2024 20:24:32] "GET /images/arrow_up.png HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 00:08:49] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 00:08:49] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 00:08:49] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 00:08:49] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 00:08:49] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 00:08:50] code 404, message File not found
+172.17.0.3 - - [08/Jun/2024 00:08:50] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [08/Jun/2024 00:08:50] code 404, message File not found
+172.17.0.3 - - [08/Jun/2024 00:08:50] code 404, message File not found
+172.17.0.3 - - [08/Jun/2024 00:08:50] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [08/Jun/2024 00:08:50] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [08/Jun/2024 00:08:50] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 00:08:50] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 00:09:33] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 00:24:15] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 07:11:49] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 07:11:49] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 07:11:49] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 07:11:49] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 07:11:49] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 07:11:50] code 404, message File not found
+172.17.0.3 - - [08/Jun/2024 07:11:50] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 07:11:50] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [08/Jun/2024 07:11:50] code 404, message File not found
+172.17.0.3 - - [08/Jun/2024 07:11:50] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [08/Jun/2024 07:11:50] code 404, message File not found
+172.17.0.3 - - [08/Jun/2024 07:11:50] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [08/Jun/2024 07:11:50] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 07:12:26] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 07:12:28] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 07:17:06] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 08:36:38] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 08:42:15] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 08:44:37] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 08:47:56] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 09:56:30] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 09:56:34] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 09:56:34] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 09:56:34] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 09:56:35] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 09:56:37] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:08:47] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 10:08:48] code 404, message File not found
+172.17.0.3 - - [08/Jun/2024 10:08:48] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [08/Jun/2024 10:08:48] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:08:48] code 404, message File not found
+172.17.0.3 - - [08/Jun/2024 10:08:48] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [08/Jun/2024 10:08:48] code 404, message File not found
+172.17.0.3 - - [08/Jun/2024 10:08:48] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [08/Jun/2024 10:08:57] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:16:05] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:16:38] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:17:04] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:19:29] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:20:57] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:21:02] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 10:21:07] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:21:12] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:22:19] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:22:21] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:22:27] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:24:53] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 10:24:56] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 10:25:08] code 404, message File not found
+172.17.0.3 - - [08/Jun/2024 10:25:08] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [08/Jun/2024 10:25:09] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:25:09] code 404, message File not found
+172.17.0.3 - - [08/Jun/2024 10:25:09] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [08/Jun/2024 10:25:09] code 404, message File not found
+172.17.0.3 - - [08/Jun/2024 10:25:09] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [08/Jun/2024 10:25:09] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:25:13] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:25:13] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:25:13] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:25:13] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:25:14] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:25:20] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 10:26:22] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:55:17] code 404, message File not found
+172.17.0.3 - - [08/Jun/2024 10:55:17] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [08/Jun/2024 10:56:59] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:57:00] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:57:00] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:57:00] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 10:57:08] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 17:56:02] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 17:56:02] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 17:56:02] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 17:56:02] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 17:56:02] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jun/2024 17:56:04] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 18:29:34] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jun/2024 19:42:30] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [09/Jun/2024 12:25:07] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [09/Jun/2024 12:25:07] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [09/Jun/2024 12:25:07] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [09/Jun/2024 12:25:07] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [09/Jun/2024 12:25:07] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [09/Jun/2024 12:25:08] code 404, message File not found
+172.17.0.3 - - [09/Jun/2024 12:25:08] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [09/Jun/2024 12:25:08] code 404, message File not found
+172.17.0.3 - - [09/Jun/2024 12:25:08] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [09/Jun/2024 12:25:08] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [09/Jun/2024 12:25:08] code 404, message File not found
+172.17.0.3 - - [09/Jun/2024 12:25:08] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [09/Jun/2024 12:25:08] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [10/Jun/2024 01:03:28] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [10/Jun/2024 01:03:28] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [10/Jun/2024 01:03:28] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [10/Jun/2024 01:03:28] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [10/Jun/2024 01:03:29] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [10/Jun/2024 01:03:29] code 404, message File not found
+172.17.0.3 - - [10/Jun/2024 01:03:29] code 404, message File not found
+172.17.0.3 - - [10/Jun/2024 01:03:29] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [10/Jun/2024 01:03:29] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [10/Jun/2024 01:03:29] code 404, message File not found
+172.17.0.3 - - [10/Jun/2024 01:03:29] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [10/Jun/2024 01:03:29] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [10/Jun/2024 01:03:29] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [10/Jun/2024 18:11:48] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [10/Jun/2024 18:11:49] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [10/Jun/2024 18:11:49] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [10/Jun/2024 18:11:49] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [10/Jun/2024 18:11:50] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [11/Jun/2024 09:33:49] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [11/Jun/2024 09:33:49] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [11/Jun/2024 09:33:49] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [11/Jun/2024 09:33:49] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [11/Jun/2024 09:33:50] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [11/Jun/2024 09:33:50] code 404, message File not found
+172.17.0.3 - - [11/Jun/2024 09:33:50] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [11/Jun/2024 09:33:50] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [11/Jun/2024 09:33:50] code 404, message File not found
+172.17.0.3 - - [11/Jun/2024 09:33:50] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [11/Jun/2024 09:33:50] code 404, message File not found
+172.17.0.3 - - [11/Jun/2024 09:33:50] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [11/Jun/2024 09:33:51] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [11/Jun/2024 19:06:57] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [11/Jun/2024 19:06:57] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [11/Jun/2024 19:06:57] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [11/Jun/2024 19:06:57] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [11/Jun/2024 19:06:58] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [11/Jun/2024 19:07:04] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [11/Jun/2024 19:11:20] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [11/Jun/2024 19:11:48] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [11/Jun/2024 19:11:57] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [11/Jun/2024 19:14:42] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [12/Jun/2024 07:04:33] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [12/Jun/2024 07:04:33] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [12/Jun/2024 07:04:33] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [12/Jun/2024 07:04:34] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [12/Jun/2024 07:04:34] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [12/Jun/2024 07:04:34] code 404, message File not found
+172.17.0.3 - - [12/Jun/2024 07:04:34] code 404, message File not found
+172.17.0.3 - - [12/Jun/2024 07:04:34] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [12/Jun/2024 07:04:34] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [12/Jun/2024 07:04:34] code 404, message File not found
+172.17.0.3 - - [12/Jun/2024 07:04:34] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [12/Jun/2024 07:04:34] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [12/Jun/2024 07:04:34] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [12/Jun/2024 07:04:53] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [15/Jun/2024 07:39:48] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [15/Jun/2024 07:39:48] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [15/Jun/2024 07:39:48] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [15/Jun/2024 07:39:48] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [15/Jun/2024 07:39:48] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [15/Jun/2024 07:39:50] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [15/Jun/2024 10:00:52] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [15/Jun/2024 10:00:54] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [15/Jun/2024 10:00:54] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [15/Jun/2024 10:00:54] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [15/Jun/2024 10:00:54] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [15/Jun/2024 10:01:07] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [15/Jun/2024 10:25:57] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [15/Jun/2024 10:25:58] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [15/Jun/2024 10:25:58] code 404, message File not found
+172.17.0.3 - - [15/Jun/2024 10:25:58] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [15/Jun/2024 10:25:58] code 404, message File not found
+172.17.0.3 - - [15/Jun/2024 10:25:58] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [15/Jun/2024 10:25:58] code 404, message File not found
+172.17.0.3 - - [15/Jun/2024 10:25:58] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [15/Jun/2024 16:10:42] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [15/Jun/2024 16:10:44] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [15/Jun/2024 16:10:44] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [15/Jun/2024 16:10:44] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [15/Jun/2024 16:10:45] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [15/Jun/2024 16:10:57] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [20/Jun/2024 14:43:06] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jun/2024 14:43:06] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jun/2024 14:43:06] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jun/2024 14:43:06] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jun/2024 14:43:06] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jun/2024 14:43:07] code 404, message File not found
+172.17.0.3 - - [20/Jun/2024 14:43:07] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [20/Jun/2024 14:43:07] code 404, message File not found
+172.17.0.3 - - [20/Jun/2024 14:43:07] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [20/Jun/2024 14:43:07] code 404, message File not found
+172.17.0.3 - - [20/Jun/2024 14:43:07] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [20/Jun/2024 14:43:07] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jun/2024 14:43:07] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 00:04:47] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [22/Jun/2024 00:04:48] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 00:04:48] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 00:04:48] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 00:04:48] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 00:04:50] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 07:07:14] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [22/Jun/2024 07:07:14] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [22/Jun/2024 07:07:14] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [22/Jun/2024 07:07:14] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 07:07:24] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [22/Jun/2024 08:17:23] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 08:23:25] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 08:23:26] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 08:23:26] code 404, message File not found
+172.17.0.3 - - [22/Jun/2024 08:23:26] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [22/Jun/2024 08:23:26] code 404, message File not found
+172.17.0.3 - - [22/Jun/2024 08:23:26] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [22/Jun/2024 08:23:26] code 404, message File not found
+172.17.0.3 - - [22/Jun/2024 08:23:26] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [22/Jun/2024 08:34:03] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 08:34:09] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 08:34:51] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 08:34:51] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 08:37:35] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 08:38:13] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 08:38:22] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 08:38:22] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 08:38:22] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 08:38:22] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 08:38:22] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 09:57:18] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 09:57:20] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 09:57:30] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 15:58:52] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 15:58:53] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [22/Jun/2024 15:58:53] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [22/Jun/2024 15:58:53] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [22/Jun/2024 15:58:54] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jun/2024 15:59:05] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [23/Jun/2024 11:59:38] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [23/Jun/2024 11:59:38] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [23/Jun/2024 11:59:38] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [23/Jun/2024 11:59:38] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [23/Jun/2024 11:59:38] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [23/Jun/2024 11:59:39] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [23/Jun/2024 11:59:39] code 404, message File not found
+172.17.0.3 - - [23/Jun/2024 11:59:39] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [23/Jun/2024 11:59:39] code 404, message File not found
+172.17.0.3 - - [23/Jun/2024 11:59:39] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [23/Jun/2024 11:59:39] code 404, message File not found
+172.17.0.3 - - [23/Jun/2024 11:59:39] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [23/Jun/2024 11:59:39] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [23/Jun/2024 12:00:04] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [25/Jun/2024 21:43:28] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [25/Jun/2024 21:43:28] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [25/Jun/2024 21:43:28] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [25/Jun/2024 21:43:28] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [25/Jun/2024 21:43:28] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [25/Jun/2024 21:43:29] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [25/Jun/2024 21:43:29] code 404, message File not found
+172.17.0.3 - - [25/Jun/2024 21:43:29] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [25/Jun/2024 21:43:29] code 404, message File not found
+172.17.0.3 - - [25/Jun/2024 21:43:29] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [25/Jun/2024 21:43:29] code 404, message File not found
+172.17.0.3 - - [25/Jun/2024 21:43:29] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [25/Jun/2024 21:43:29] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [25/Jun/2024 23:29:19] code 404, message File not found
+172.17.0.3 - - [25/Jun/2024 23:29:19] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [25/Jun/2024 23:29:19] code 404, message File not found
+172.17.0.3 - - [25/Jun/2024 23:29:19] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [25/Jun/2024 23:29:19] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [25/Jun/2024 23:29:19] code 404, message File not found
+172.17.0.3 - - [25/Jun/2024 23:29:19] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [26/Jun/2024 22:05:34] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [26/Jun/2024 22:05:34] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [26/Jun/2024 22:05:34] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [26/Jun/2024 22:05:34] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [26/Jun/2024 22:05:34] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [26/Jun/2024 22:05:35] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [28/Jun/2024 10:18:10] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [28/Jun/2024 10:34:44] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [29/Jun/2024 08:38:48] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [29/Jun/2024 08:38:49] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [29/Jun/2024 08:38:49] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [29/Jun/2024 08:38:49] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [29/Jun/2024 08:38:49] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [29/Jun/2024 08:38:49] code 404, message File not found
+172.17.0.3 - - [29/Jun/2024 08:38:49] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [29/Jun/2024 08:38:49] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [29/Jun/2024 08:38:49] code 404, message File not found
+172.17.0.3 - - [29/Jun/2024 08:38:49] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [29/Jun/2024 08:38:49] code 404, message File not found
+172.17.0.3 - - [29/Jun/2024 08:38:49] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [29/Jun/2024 08:38:49] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [29/Jun/2024 10:14:20] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/Jun/2024 10:12:53] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [30/Jun/2024 10:12:54] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [30/Jun/2024 10:12:54] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [30/Jun/2024 10:12:54] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [30/Jun/2024 10:12:54] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [30/Jun/2024 10:12:54] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/Jun/2024 10:12:54] code 404, message File not found
+172.17.0.3 - - [30/Jun/2024 10:12:54] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/Jun/2024 10:12:54] code 404, message File not found
+172.17.0.3 - - [30/Jun/2024 10:12:54] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/Jun/2024 10:12:54] code 404, message File not found
+172.17.0.3 - - [30/Jun/2024 10:12:54] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/Jun/2024 10:12:54] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [30/Jun/2024 14:04:07] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [30/Jun/2024 22:20:23] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [30/Jun/2024 22:20:23] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [30/Jun/2024 22:20:23] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [30/Jun/2024 22:20:23] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [30/Jun/2024 22:20:23] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [30/Jun/2024 22:20:23] code 404, message File not found
+172.17.0.3 - - [30/Jun/2024 22:20:23] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [30/Jun/2024 22:20:23] code 404, message File not found
+172.17.0.3 - - [30/Jun/2024 22:20:23] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/Jun/2024 22:20:23] code 404, message File not found
+172.17.0.3 - - [30/Jun/2024 22:20:23] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [30/Jun/2024 22:20:23] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/Jun/2024 22:20:23] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jul/2024 18:36:22] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jul/2024 18:36:22] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jul/2024 18:36:22] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jul/2024 18:36:22] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [01/Jul/2024 18:36:22] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [01/Jul/2024 18:36:23] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [01/Jul/2024 18:36:23] code 404, message File not found
+172.17.0.3 - - [01/Jul/2024 18:36:23] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jul/2024 18:36:23] code 404, message File not found
+172.17.0.3 - - [01/Jul/2024 18:36:23] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jul/2024 18:36:23] code 404, message File not found
+172.17.0.3 - - [01/Jul/2024 18:36:23] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [01/Jul/2024 18:36:23] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [03/Jul/2024 14:27:18] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [03/Jul/2024 14:27:18] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [03/Jul/2024 14:27:18] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [03/Jul/2024 14:27:18] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [03/Jul/2024 14:27:19] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [03/Jul/2024 14:27:41] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [03/Jul/2024 14:38:06] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [05/Jul/2024 07:20:55] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jul/2024 11:39:48] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jul/2024 12:20:28] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jul/2024 15:24:24] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jul/2024 22:08:07] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jul/2024 22:08:07] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jul/2024 22:08:07] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jul/2024 22:08:07] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jul/2024 22:08:07] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jul/2024 22:08:11] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [05/Jul/2024 22:08:22] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [05/Jul/2024 22:29:35] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jul/2024 01:12:55] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jul/2024 04:39:51] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jul/2024 15:22:35] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jul/2024 17:17:28] code 404, message File not found
+172.17.0.3 - - [06/Jul/2024 17:17:28] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [06/Jul/2024 17:17:29] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Jul/2024 17:17:29] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jul/2024 17:17:29] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jul/2024 17:17:29] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [06/Jul/2024 17:17:34] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [07/Jul/2024 18:31:47] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jul/2024 18:31:47] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jul/2024 18:31:47] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jul/2024 18:31:47] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jul/2024 18:31:51] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jul/2024 18:31:51] code 404, message File not found
+172.17.0.3 - - [07/Jul/2024 18:31:51] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [07/Jul/2024 18:31:51] code 404, message File not found
+172.17.0.3 - - [07/Jul/2024 18:31:51] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [07/Jul/2024 18:31:51] code 404, message File not found
+172.17.0.3 - - [07/Jul/2024 18:31:51] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [07/Jul/2024 18:31:51] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jul/2024 18:31:52] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [07/Jul/2024 19:51:02] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [08/Jul/2024 06:03:20] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jul/2024 15:07:55] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jul/2024 19:04:29] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jul/2024 19:04:29] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jul/2024 19:04:29] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jul/2024 19:04:29] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [08/Jul/2024 19:04:29] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [09/Jul/2024 01:21:53] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [09/Jul/2024 03:15:03] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [09/Jul/2024 12:34:18] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [12/Jul/2024 23:06:20] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [12/Jul/2024 23:06:20] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [12/Jul/2024 23:06:20] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [12/Jul/2024 23:06:20] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [12/Jul/2024 23:06:21] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [12/Jul/2024 23:06:22] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [12/Jul/2024 23:06:22] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [12/Jul/2024 23:06:22] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [12/Jul/2024 23:06:36] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 07:20:13] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 07:20:13] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 07:20:13] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 07:20:22] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 07:20:24] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 10:11:00] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 10:11:04] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 10:11:04] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 10:11:04] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 10:11:04] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 10:11:14] code 404, message File not found
+172.17.0.3 - - [13/Jul/2024 10:11:14] code 404, message File not found
+172.17.0.3 - - [13/Jul/2024 10:11:14] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [13/Jul/2024 10:11:14] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [13/Jul/2024 10:11:14] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 10:11:14] code 404, message File not found
+172.17.0.3 - - [13/Jul/2024 10:11:14] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [13/Jul/2024 10:11:14] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 14:18:03] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 14:18:06] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 14:18:06] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 14:18:06] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 14:18:07] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 14:18:32] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 16:33:22] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 16:33:24] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 16:33:24] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 16:33:24] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 16:33:24] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 16:33:51] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [13/Jul/2024 16:34:23] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 16:49:29] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 16:49:29] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 16:49:29] code 404, message File not found
+172.17.0.3 - - [13/Jul/2024 16:49:29] "GET /script.js HTTP/1.1" 404 -
+172.17.0.3 - - [13/Jul/2024 16:49:29] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 16:49:29] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 16:49:29] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 16:50:23] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 16:51:01] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 16:51:13] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 16:51:13] code 404, message File not found
+172.17.0.3 - - [13/Jul/2024 16:51:13] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [13/Jul/2024 16:51:13] code 404, message File not found
+172.17.0.3 - - [13/Jul/2024 16:51:13] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [13/Jul/2024 16:51:13] code 404, message File not found
+172.17.0.3 - - [13/Jul/2024 16:51:13] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [13/Jul/2024 16:51:35] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 16:52:35] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 16:54:13] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 16:55:03] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [13/Jul/2024 17:26:23] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [14/Jul/2024 12:22:06] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [14/Jul/2024 12:22:06] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [14/Jul/2024 12:22:06] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [14/Jul/2024 12:22:06] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [14/Jul/2024 12:22:16] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [18/Jul/2024 18:48:13] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [18/Jul/2024 21:47:38] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [18/Jul/2024 21:56:03] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [18/Jul/2024 21:56:03] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [18/Jul/2024 21:56:03] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [18/Jul/2024 21:56:03] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [18/Jul/2024 21:56:03] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [18/Jul/2024 21:56:17] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [18/Jul/2024 21:56:17] code 404, message File not found
+172.17.0.3 - - [18/Jul/2024 21:56:17] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [18/Jul/2024 21:56:17] code 404, message File not found
+172.17.0.3 - - [18/Jul/2024 21:56:17] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [18/Jul/2024 21:56:17] code 404, message File not found
+172.17.0.3 - - [18/Jul/2024 21:56:17] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [18/Jul/2024 21:56:17] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [19/Jul/2024 09:14:32] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [19/Jul/2024 19:50:24] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jul/2024 08:56:47] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jul/2024 10:04:42] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jul/2024 10:10:21] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jul/2024 10:10:21] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jul/2024 10:10:21] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jul/2024 10:10:21] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jul/2024 10:10:39] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jul/2024 10:26:18] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jul/2024 10:28:18] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jul/2024 10:28:29] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [20/Jul/2024 10:59:23] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [21/Jul/2024 17:35:15] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [21/Jul/2024 17:35:15] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [21/Jul/2024 17:35:15] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [21/Jul/2024 17:35:15] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [21/Jul/2024 17:35:15] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [21/Jul/2024 17:35:28] code 404, message File not found
+172.17.0.3 - - [21/Jul/2024 17:35:28] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [21/Jul/2024 17:35:28] code 404, message File not found
+172.17.0.3 - - [21/Jul/2024 17:35:28] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [21/Jul/2024 17:35:28] code 404, message File not found
+172.17.0.3 - - [21/Jul/2024 17:35:28] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [21/Jul/2024 17:35:28] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [21/Jul/2024 17:35:28] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [21/Jul/2024 18:56:20] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jul/2024 12:53:28] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jul/2024 12:53:28] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jul/2024 12:53:28] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [22/Jul/2024 12:53:41] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jul/2024 12:53:41] code 404, message File not found
+172.17.0.3 - - [22/Jul/2024 12:53:41] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [22/Jul/2024 12:53:41] code 404, message File not found
+172.17.0.3 - - [22/Jul/2024 12:53:41] code 404, message File not found
+172.17.0.3 - - [22/Jul/2024 12:53:41] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [22/Jul/2024 12:53:41] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [22/Jul/2024 12:53:41] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [22/Jul/2024 12:53:41] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [23/Jul/2024 02:19:12] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [23/Jul/2024 03:31:26] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [23/Jul/2024 04:14:48] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [23/Jul/2024 06:11:52] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [24/Jul/2024 22:42:26] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [24/Jul/2024 22:42:27] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [24/Jul/2024 22:42:27] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [24/Jul/2024 22:42:27] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [24/Jul/2024 22:42:27] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [24/Jul/2024 22:44:07] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [25/Jul/2024 18:32:33] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [25/Jul/2024 18:32:33] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [25/Jul/2024 18:32:33] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [25/Jul/2024 18:32:33] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [25/Jul/2024 18:32:40] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [25/Jul/2024 18:32:40] code 404, message File not found
+172.17.0.3 - - [25/Jul/2024 18:32:40] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [25/Jul/2024 18:32:40] code 404, message File not found
+172.17.0.3 - - [25/Jul/2024 18:32:40] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [25/Jul/2024 18:32:40] code 404, message File not found
+172.17.0.3 - - [25/Jul/2024 18:32:40] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [25/Jul/2024 18:32:40] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [26/Jul/2024 20:17:14] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [26/Jul/2024 20:17:14] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [26/Jul/2024 20:17:14] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [26/Jul/2024 20:17:14] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [26/Jul/2024 20:17:14] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [26/Jul/2024 20:17:33] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [26/Jul/2024 21:44:36] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 07:26:32] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [27/Jul/2024 07:26:32] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [27/Jul/2024 07:26:32] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [27/Jul/2024 07:26:32] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [27/Jul/2024 07:26:32] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [27/Jul/2024 07:26:51] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [27/Jul/2024 08:41:34] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [27/Jul/2024 08:41:49] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [27/Jul/2024 08:42:09] code 404, message File not found
+172.17.0.3 - - [27/Jul/2024 08:42:09] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [27/Jul/2024 08:42:09] code 404, message File not found
+172.17.0.3 - - [27/Jul/2024 08:42:09] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [27/Jul/2024 08:42:09] code 404, message File not found
+172.17.0.3 - - [27/Jul/2024 08:42:09] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [27/Jul/2024 08:42:09] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [27/Jul/2024 10:09:27] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [27/Jul/2024 10:09:29] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 10:09:29] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 10:09:29] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 10:09:29] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 10:09:57] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 13:56:47] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [27/Jul/2024 13:56:47] code 404, message File not found
+172.17.0.3 - - [27/Jul/2024 13:56:47] "GET /apple-touch-icon-120x120-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [27/Jul/2024 13:56:47] code 404, message File not found
+172.17.0.3 - - [27/Jul/2024 13:56:47] "GET /apple-touch-icon-120x120.png HTTP/1.1" 404 -
+172.17.0.3 - - [27/Jul/2024 13:56:47] code 404, message File not found
+172.17.0.3 - - [27/Jul/2024 13:56:47] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [27/Jul/2024 13:56:47] code 404, message File not found
+172.17.0.3 - - [27/Jul/2024 13:56:47] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [27/Jul/2024 13:56:47] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 13:56:49] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 13:56:49] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 13:56:49] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 13:56:49] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 15:49:08] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [27/Jul/2024 17:40:21] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [27/Jul/2024 17:40:22] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 17:40:22] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 17:40:22] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 17:40:22] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [27/Jul/2024 17:40:44] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [29/Jul/2024 22:37:30] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [29/Jul/2024 22:37:30] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [29/Jul/2024 22:37:30] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [29/Jul/2024 22:37:30] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [29/Jul/2024 22:37:30] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [30/Jul/2024 02:58:23] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/Jul/2024 06:51:31] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/Jul/2024 10:35:31] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [30/Jul/2024 12:42:45] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [01/Aug/2024 14:03:30] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [02/Aug/2024 02:49:30] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [02/Aug/2024 05:06:31] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [03/Aug/2024 10:02:19] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [03/Aug/2024 10:02:19] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [03/Aug/2024 10:02:19] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [03/Aug/2024 10:02:19] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [03/Aug/2024 10:02:20] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [03/Aug/2024 10:02:23] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [03/Aug/2024 10:02:23] code 404, message File not found
+172.17.0.3 - - [03/Aug/2024 10:02:23] "GET /apple-touch-icon-120x120-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [03/Aug/2024 10:02:23] code 404, message File not found
+172.17.0.3 - - [03/Aug/2024 10:02:23] "GET /apple-touch-icon-120x120.png HTTP/1.1" 404 -
+172.17.0.3 - - [03/Aug/2024 10:02:23] code 404, message File not found
+172.17.0.3 - - [03/Aug/2024 10:02:23] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [03/Aug/2024 10:02:23] code 404, message File not found
+172.17.0.3 - - [03/Aug/2024 10:02:23] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [03/Aug/2024 10:03:12] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [03/Aug/2024 10:05:12] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [03/Aug/2024 10:32:24] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [03/Aug/2024 12:21:33] code 404, message File not found
+172.17.0.3 - - [03/Aug/2024 12:21:33] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [03/Aug/2024 12:21:33] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [03/Aug/2024 12:21:34] code 404, message File not found
+172.17.0.3 - - [03/Aug/2024 12:21:34] code 404, message File not found
+172.17.0.3 - - [03/Aug/2024 12:21:34] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [03/Aug/2024 12:21:34] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [03/Aug/2024 12:21:34] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [03/Aug/2024 12:21:34] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [03/Aug/2024 12:21:34] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [03/Aug/2024 12:21:34] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [03/Aug/2024 12:21:34] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [03/Aug/2024 12:21:35] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [03/Aug/2024 12:21:35] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [03/Aug/2024 15:50:06] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [03/Aug/2024 15:50:06] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [03/Aug/2024 15:50:06] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [03/Aug/2024 15:50:06] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [03/Aug/2024 15:50:07] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [03/Aug/2024 15:50:14] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [03/Aug/2024 17:39:16] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [04/Aug/2024 04:13:35] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [04/Aug/2024 18:50:00] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [04/Aug/2024 20:52:59] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Aug/2024 02:52:00] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Aug/2024 16:07:17] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Aug/2024 22:41:31] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Aug/2024 22:41:31] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [05/Aug/2024 22:41:32] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [05/Aug/2024 22:41:32] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [05/Aug/2024 22:41:32] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [05/Aug/2024 22:41:33] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [05/Aug/2024 22:41:34] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [05/Aug/2024 22:41:34] code 404, message File not found
+172.17.0.3 - - [05/Aug/2024 22:41:34] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [05/Aug/2024 22:41:34] code 404, message File not found
+172.17.0.3 - - [05/Aug/2024 22:41:34] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [05/Aug/2024 22:41:34] code 404, message File not found
+172.17.0.3 - - [05/Aug/2024 22:41:34] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [05/Aug/2024 22:44:21] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Aug/2024 08:04:37] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Aug/2024 18:55:23] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [06/Aug/2024 18:55:23] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [06/Aug/2024 18:55:23] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [06/Aug/2024 18:55:23] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [06/Aug/2024 18:55:26] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [06/Aug/2024 18:55:26] code 404, message File not found
+172.17.0.3 - - [06/Aug/2024 18:55:26] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [06/Aug/2024 18:55:26] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [06/Aug/2024 18:55:26] code 404, message File not found
+172.17.0.3 - - [06/Aug/2024 18:55:26] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [06/Aug/2024 18:55:26] code 404, message File not found
+172.17.0.3 - - [06/Aug/2024 18:55:26] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [06/Aug/2024 18:55:26] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [06/Aug/2024 18:55:38] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [07/Aug/2024 12:27:40] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [07/Aug/2024 12:27:41] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [07/Aug/2024 12:27:41] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [07/Aug/2024 12:27:41] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [07/Aug/2024 12:27:43] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [09/Aug/2024 08:46:14] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [09/Aug/2024 08:46:14] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [09/Aug/2024 08:46:14] "GET /style.css HTTP/1.1" 200 -
+172.17.0.3 - - [09/Aug/2024 08:46:14] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [09/Aug/2024 08:46:17] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [09/Aug/2024 08:46:18] code 404, message File not found
+172.17.0.3 - - [09/Aug/2024 08:46:18] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [09/Aug/2024 08:46:18] code 404, message File not found
+172.17.0.3 - - [09/Aug/2024 08:46:18] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [09/Aug/2024 08:46:18] code 404, message File not found
+172.17.0.3 - - [09/Aug/2024 08:46:18] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [09/Aug/2024 08:46:18] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [09/Aug/2024 08:46:18] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [09/Aug/2024 22:56:14] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [09/Aug/2024 22:56:14] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [09/Aug/2024 22:56:14] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.3 - - [09/Aug/2024 22:56:14] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.3 - - [09/Aug/2024 22:56:14] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.3 - - [09/Aug/2024 22:56:18] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.3 - - [10/Aug/2024 10:08:10] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [10/Aug/2024 10:08:14] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 10:08:14] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 10:08:14] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 10:08:14] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 10:08:27] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 10:12:35] "GET / HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 10:12:38] code 404, message File not found
+172.17.0.3 - - [10/Aug/2024 10:12:38] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.3 - - [10/Aug/2024 10:12:38] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [10/Aug/2024 10:12:38] code 404, message File not found
+172.17.0.3 - - [10/Aug/2024 10:12:38] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.3 - - [10/Aug/2024 10:12:38] code 404, message File not found
+172.17.0.3 - - [10/Aug/2024 10:12:38] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.3 - - [10/Aug/2024 15:51:12] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [10/Aug/2024 15:51:13] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 15:51:13] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 15:51:13] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 15:51:13] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 15:51:22] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 16:18:17] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [10/Aug/2024 23:12:15] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 23:12:15] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 23:12:15] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [10/Aug/2024 23:12:15] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [11/Aug/2024 15:57:18] "GET / HTTP/1.1" 200 -
+172.17.0.3 - - [11/Aug/2024 15:57:18] "GET /style.css HTTP/1.1" 304 -
+172.17.0.3 - - [11/Aug/2024 15:57:18] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.3 - - [11/Aug/2024 15:57:18] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.3 - - [11/Aug/2024 15:57:18] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.3 - - [11/Aug/2024 15:57:26] "GET /favicon.png HTTP/1.1" 304 -
+192.168.1.162 - - [12/Aug/2024 20:39:13] "GET / HTTP/1.1" 200 -
+192.168.1.162 - - [12/Aug/2024 20:39:13] "GET /leaderboard.js HTTP/1.1" 200 -
+192.168.1.162 - - [12/Aug/2024 20:39:13] "GET /style.css HTTP/1.1" 200 -
+192.168.1.162 - - [12/Aug/2024 20:39:13] "GET /slideshow-script.js HTTP/1.1" 200 -
+192.168.1.162 - - [12/Aug/2024 20:39:13] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+192.168.1.162 - - [12/Aug/2024 20:39:16] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 07:35:40] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [17/Aug/2024 07:35:40] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [17/Aug/2024 07:35:40] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [17/Aug/2024 07:35:40] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [17/Aug/2024 07:35:40] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [17/Aug/2024 07:35:49] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [17/Aug/2024 07:35:49] code 404, message File not found
+172.17.0.2 - - [17/Aug/2024 07:35:49] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [17/Aug/2024 07:35:49] code 404, message File not found
+172.17.0.2 - - [17/Aug/2024 07:35:49] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [17/Aug/2024 07:35:49] code 404, message File not found
+172.17.0.2 - - [17/Aug/2024 07:35:49] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [17/Aug/2024 07:35:49] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [17/Aug/2024 07:35:49] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [17/Aug/2024 07:36:24] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [17/Aug/2024 08:33:43] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [17/Aug/2024 09:57:55] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [17/Aug/2024 09:57:58] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 09:57:58] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 09:57:58] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 09:57:58] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 09:58:16] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 11:23:29] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [17/Aug/2024 12:07:11] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 12:07:11] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 12:07:11] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 12:07:11] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 15:41:44] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [17/Aug/2024 15:41:45] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 15:41:45] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 15:41:45] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 15:41:45] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [17/Aug/2024 15:41:58] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [18/Aug/2024 07:31:14] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [18/Aug/2024 21:27:35] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [18/Aug/2024 21:27:35] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [18/Aug/2024 21:27:35] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [18/Aug/2024 21:27:35] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [18/Aug/2024 21:27:35] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [18/Aug/2024 21:27:35] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [18/Aug/2024 21:41:34] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [19/Aug/2024 14:40:37] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [20/Aug/2024 01:58:12] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [20/Aug/2024 06:29:07] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [20/Aug/2024 10:42:00] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [24/Aug/2024 00:54:31] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [24/Aug/2024 00:54:31] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [24/Aug/2024 00:54:31] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [24/Aug/2024 00:54:31] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [24/Aug/2024 00:54:31] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [24/Aug/2024 00:54:42] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [24/Aug/2024 00:54:42] code 404, message File not found
+172.17.0.2 - - [24/Aug/2024 00:54:42] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [24/Aug/2024 00:54:42] code 404, message File not found
+172.17.0.2 - - [24/Aug/2024 00:54:42] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [24/Aug/2024 00:54:42] code 404, message File not found
+172.17.0.2 - - [24/Aug/2024 00:54:42] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [24/Aug/2024 00:54:42] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [24/Aug/2024 10:17:04] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [24/Aug/2024 10:17:06] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [24/Aug/2024 10:17:06] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [24/Aug/2024 10:17:06] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [24/Aug/2024 10:17:06] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [24/Aug/2024 10:17:33] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [24/Aug/2024 12:06:43] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 13:40:55] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 13:40:55] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 13:40:55] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 13:40:55] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 13:40:55] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 13:41:10] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 13:41:10] code 404, message File not found
+172.17.0.2 - - [30/Aug/2024 13:41:10] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [30/Aug/2024 13:41:10] code 404, message File not found
+172.17.0.2 - - [30/Aug/2024 13:41:10] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [30/Aug/2024 13:41:10] code 404, message File not found
+172.17.0.2 - - [30/Aug/2024 13:41:10] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [30/Aug/2024 13:41:10] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 13:42:43] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 13:43:08] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 13:43:41] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 15:27:15] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 15:27:48] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [30/Aug/2024 15:28:58] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 22:08:01] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 22:08:01] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [30/Aug/2024 22:08:01] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [30/Aug/2024 22:08:01] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 22:08:01] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [30/Aug/2024 22:29:42] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [30/Aug/2024 22:29:59] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [30/Aug/2024 22:51:06] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [30/Aug/2024 22:52:40] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [30/Aug/2024 22:53:31] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [30/Aug/2024 22:56:38] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [30/Aug/2024 23:03:45] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [30/Aug/2024 23:17:20] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [31/Aug/2024 10:00:00] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [31/Aug/2024 10:00:02] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [31/Aug/2024 10:00:02] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [31/Aug/2024 10:00:02] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [31/Aug/2024 10:00:03] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [31/Aug/2024 10:00:27] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [31/Aug/2024 15:41:28] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [31/Aug/2024 15:41:29] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [31/Aug/2024 15:41:29] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [31/Aug/2024 15:41:29] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [31/Aug/2024 15:41:29] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [31/Aug/2024 15:41:50] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [03/Sep/2024 01:48:33] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [03/Sep/2024 01:48:33] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [03/Sep/2024 01:48:33] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [03/Sep/2024 01:48:33] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [03/Sep/2024 01:48:35] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [03/Sep/2024 01:48:35] code 404, message File not found
+172.17.0.2 - - [03/Sep/2024 01:48:35] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [03/Sep/2024 01:48:35] code 404, message File not found
+172.17.0.2 - - [03/Sep/2024 01:48:35] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [03/Sep/2024 01:48:35] code 404, message File not found
+172.17.0.2 - - [03/Sep/2024 01:48:35] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [03/Sep/2024 01:48:35] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [03/Sep/2024 01:48:35] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [05/Sep/2024 09:11:16] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [05/Sep/2024 09:11:17] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [05/Sep/2024 09:11:17] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [05/Sep/2024 09:11:17] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [05/Sep/2024 09:11:17] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [05/Sep/2024 09:11:20] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [05/Sep/2024 09:11:20] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [05/Sep/2024 09:11:20] code 404, message File not found
+172.17.0.2 - - [05/Sep/2024 09:11:20] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [05/Sep/2024 09:11:20] code 404, message File not found
+172.17.0.2 - - [05/Sep/2024 09:11:20] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [05/Sep/2024 09:11:20] code 404, message File not found
+172.17.0.2 - - [05/Sep/2024 09:11:20] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [05/Sep/2024 14:47:26] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 14:47:26] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 14:47:26] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 14:47:26] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 14:57:32] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [05/Sep/2024 17:24:15] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [05/Sep/2024 20:49:25] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 20:49:25] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [05/Sep/2024 20:49:25] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 20:49:25] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 20:49:29] code 404, message File not found
+172.17.0.2 - - [05/Sep/2024 20:49:29] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [05/Sep/2024 20:49:29] code 404, message File not found
+172.17.0.2 - - [05/Sep/2024 20:49:29] code 404, message File not found
+172.17.0.2 - - [05/Sep/2024 20:49:29] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [05/Sep/2024 20:49:29] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [05/Sep/2024 20:49:29] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [05/Sep/2024 20:49:29] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 21:12:16] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [05/Sep/2024 22:54:03] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 22:54:03] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 22:54:03] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 22:54:03] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 22:54:03] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 22:54:08] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 22:54:49] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [05/Sep/2024 22:55:10] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [06/Sep/2024 08:24:52] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [06/Sep/2024 18:26:23] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 05:56:22] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 05:56:22] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 05:56:22] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 05:56:22] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 05:56:22] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 05:56:26] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 05:56:26] code 404, message File not found
+172.17.0.2 - - [07/Sep/2024 05:56:26] code 404, message File not found
+172.17.0.2 - - [07/Sep/2024 05:56:26] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 05:56:26] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [07/Sep/2024 05:56:26] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [07/Sep/2024 05:56:26] code 404, message File not found
+172.17.0.2 - - [07/Sep/2024 05:56:26] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [07/Sep/2024 05:57:33] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 05:57:58] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 06:03:04] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 06:03:05] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 07:17:24] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 07:17:24] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 10:22:59] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 10:23:03] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 10:23:03] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 10:23:03] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 10:23:03] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 10:23:23] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 13:20:42] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 13:20:43] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 13:20:43] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 13:20:43] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 13:20:43] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 13:20:55] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 16:07:47] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 16:07:50] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 16:07:50] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 16:07:50] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 16:07:51] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 16:08:08] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [07/Sep/2024 16:08:18] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Sep/2024 19:56:59] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [08/Sep/2024 07:44:42] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [08/Sep/2024 11:38:02] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [09/Sep/2024 01:51:57] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [09/Sep/2024 01:51:57] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [09/Sep/2024 01:51:57] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [09/Sep/2024 01:51:57] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [09/Sep/2024 01:52:09] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [09/Sep/2024 01:52:09] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [09/Sep/2024 01:52:09] code 404, message File not found
+172.17.0.2 - - [09/Sep/2024 01:52:09] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [09/Sep/2024 01:52:09] code 404, message File not found
+172.17.0.2 - - [09/Sep/2024 01:52:09] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [09/Sep/2024 01:52:09] code 404, message File not found
+172.17.0.2 - - [09/Sep/2024 01:52:09] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [09/Sep/2024 01:52:10] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [09/Sep/2024 21:07:26] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [10/Sep/2024 19:01:00] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [13/Sep/2024 00:36:00] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [13/Sep/2024 02:16:46] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [13/Sep/2024 08:39:03] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [13/Sep/2024 11:02:14] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [13/Sep/2024 11:02:15] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [13/Sep/2024 11:02:15] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [13/Sep/2024 11:02:15] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [13/Sep/2024 11:02:15] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [13/Sep/2024 11:02:24] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [13/Sep/2024 11:02:24] code 404, message File not found
+172.17.0.2 - - [13/Sep/2024 11:02:24] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [13/Sep/2024 11:02:24] code 404, message File not found
+172.17.0.2 - - [13/Sep/2024 11:02:24] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [13/Sep/2024 11:02:24] code 404, message File not found
+172.17.0.2 - - [13/Sep/2024 11:02:24] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [13/Sep/2024 11:02:24] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 00:26:08] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 00:26:08] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 00:26:08] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 00:26:08] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 00:26:08] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 02:52:43] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 06:01:22] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 06:01:22] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 06:01:22] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 06:01:22] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 06:01:36] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 06:01:36] code 404, message File not found
+172.17.0.2 - - [14/Sep/2024 06:01:36] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [14/Sep/2024 06:01:36] code 404, message File not found
+172.17.0.2 - - [14/Sep/2024 06:01:36] code 404, message File not found
+172.17.0.2 - - [14/Sep/2024 06:01:36] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [14/Sep/2024 06:01:36] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [14/Sep/2024 06:01:36] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 06:01:36] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 06:06:27] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 06:06:27] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 06:06:27] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 06:06:27] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 06:06:27] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 06:06:40] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 07:08:04] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 07:08:15] code 404, message File not found
+172.17.0.2 - - [14/Sep/2024 07:08:15] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [14/Sep/2024 07:08:15] code 404, message File not found
+172.17.0.2 - - [14/Sep/2024 07:08:15] code 404, message File not found
+172.17.0.2 - - [14/Sep/2024 07:08:15] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [14/Sep/2024 07:08:15] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [14/Sep/2024 07:08:15] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 10:09:36] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 10:09:38] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 10:09:38] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 10:09:38] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 10:09:38] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 10:09:58] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 16:09:41] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [14/Sep/2024 16:09:43] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 16:09:43] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 16:09:43] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 16:09:44] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 16:10:00] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 23:35:30] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 23:35:30] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 23:35:30] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [14/Sep/2024 23:35:30] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [15/Sep/2024 07:51:27] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [15/Sep/2024 08:04:20] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [15/Sep/2024 19:30:11] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [17/Sep/2024 01:04:58] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [17/Sep/2024 02:57:12] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [17/Sep/2024 14:42:01] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [17/Sep/2024 15:20:21] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [19/Sep/2024 17:26:57] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [19/Sep/2024 19:52:23] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [19/Sep/2024 19:52:23] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [19/Sep/2024 19:52:23] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [19/Sep/2024 19:52:23] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [19/Sep/2024 19:52:23] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [19/Sep/2024 19:52:42] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [19/Sep/2024 19:52:42] code 404, message File not found
+172.17.0.2 - - [19/Sep/2024 19:52:42] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [19/Sep/2024 19:52:42] code 404, message File not found
+172.17.0.2 - - [19/Sep/2024 19:52:42] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [19/Sep/2024 19:52:42] code 404, message File not found
+172.17.0.2 - - [19/Sep/2024 19:52:42] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [19/Sep/2024 19:52:42] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [19/Sep/2024 23:51:58] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [20/Sep/2024 08:10:44] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [20/Sep/2024 11:41:05] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [20/Sep/2024 19:47:18] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [20/Sep/2024 22:39:08] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [20/Sep/2024 22:39:08] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [20/Sep/2024 22:39:09] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [20/Sep/2024 22:39:09] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [21/Sep/2024 03:36:15] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [21/Sep/2024 03:36:16] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [21/Sep/2024 03:36:16] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [21/Sep/2024 03:36:16] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [21/Sep/2024 03:36:16] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [21/Sep/2024 03:37:35] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [21/Sep/2024 03:37:35] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [21/Sep/2024 03:37:35] code 404, message File not found
+172.17.0.2 - - [21/Sep/2024 03:37:35] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [21/Sep/2024 03:37:35] code 404, message File not found
+172.17.0.2 - - [21/Sep/2024 03:37:35] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [21/Sep/2024 03:37:35] code 404, message File not found
+172.17.0.2 - - [21/Sep/2024 03:37:35] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [21/Sep/2024 03:57:27] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [21/Sep/2024 06:21:33] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 06:21:33] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 06:21:33] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 06:21:33] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 07:07:09] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 07:07:23] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 08:41:00] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 08:41:00] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 08:41:00] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 08:41:00] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 09:55:11] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [21/Sep/2024 09:55:41] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 15:45:51] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [21/Sep/2024 15:45:54] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 15:45:54] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 15:45:54] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 15:45:54] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [21/Sep/2024 15:46:17] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [22/Sep/2024 02:53:20] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [22/Sep/2024 22:39:55] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [22/Sep/2024 22:39:55] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [22/Sep/2024 22:39:55] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [22/Sep/2024 22:39:55] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [22/Sep/2024 22:39:55] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [23/Sep/2024 00:44:26] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [25/Sep/2024 00:11:40] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [25/Sep/2024 00:11:40] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [25/Sep/2024 00:11:40] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [25/Sep/2024 00:11:40] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [25/Sep/2024 00:11:54] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [25/Sep/2024 00:11:54] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [25/Sep/2024 00:11:55] code 404, message File not found
+172.17.0.2 - - [25/Sep/2024 00:11:55] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [25/Sep/2024 00:11:55] code 404, message File not found
+172.17.0.2 - - [25/Sep/2024 00:11:55] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [25/Sep/2024 00:11:55] code 404, message File not found
+172.17.0.2 - - [25/Sep/2024 00:11:55] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [25/Sep/2024 00:11:55] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [25/Sep/2024 00:13:10] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [26/Sep/2024 23:14:00] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [26/Sep/2024 23:14:00] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [26/Sep/2024 23:14:00] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [26/Sep/2024 23:14:00] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [26/Sep/2024 23:14:00] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [26/Sep/2024 23:14:18] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [26/Sep/2024 23:14:19] code 404, message File not found
+172.17.0.2 - - [26/Sep/2024 23:14:19] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [26/Sep/2024 23:14:19] code 404, message File not found
+172.17.0.2 - - [26/Sep/2024 23:14:19] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [26/Sep/2024 23:14:19] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [26/Sep/2024 23:14:19] code 404, message File not found
+172.17.0.2 - - [26/Sep/2024 23:14:19] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [27/Sep/2024 08:03:12] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [27/Sep/2024 10:39:35] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [27/Sep/2024 12:49:17] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [27/Sep/2024 14:07:38] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [27/Sep/2024 16:43:38] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [28/Sep/2024 00:32:11] "GET / HTTP/1.1" 304 -
+172.17.0.2 - - [28/Sep/2024 00:32:11] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [28/Sep/2024 00:32:11] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [28/Sep/2024 00:32:11] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [28/Sep/2024 00:32:11] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [28/Sep/2024 00:33:42] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [28/Sep/2024 05:20:18] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [28/Sep/2024 10:07:55] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [28/Sep/2024 10:07:58] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [28/Sep/2024 10:07:58] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [28/Sep/2024 10:07:58] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [28/Sep/2024 10:07:58] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [28/Sep/2024 10:08:30] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [29/Sep/2024 10:50:15] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [30/Sep/2024 01:59:52] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [30/Sep/2024 01:59:52] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [30/Sep/2024 01:59:52] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [30/Sep/2024 01:59:52] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [30/Sep/2024 01:59:52] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [30/Sep/2024 02:00:11] code 404, message File not found
+172.17.0.2 - - [30/Sep/2024 02:00:11] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [30/Sep/2024 02:00:11] code 404, message File not found
+172.17.0.2 - - [30/Sep/2024 02:00:11] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [30/Sep/2024 02:00:11] code 404, message File not found
+172.17.0.2 - - [30/Sep/2024 02:00:11] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [30/Sep/2024 02:00:11] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [30/Sep/2024 02:00:11] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [30/Sep/2024 18:09:27] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [01/Oct/2024 14:23:32] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [02/Oct/2024 22:16:49] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [02/Oct/2024 22:16:49] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [02/Oct/2024 22:16:49] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [02/Oct/2024 22:16:49] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [02/Oct/2024 22:16:53] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [02/Oct/2024 22:16:53] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [02/Oct/2024 22:16:53] code 404, message File not found
+172.17.0.2 - - [02/Oct/2024 22:16:53] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [02/Oct/2024 22:16:53] code 404, message File not found
+172.17.0.2 - - [02/Oct/2024 22:16:53] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [02/Oct/2024 22:16:53] code 404, message File not found
+172.17.0.2 - - [02/Oct/2024 22:16:53] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [02/Oct/2024 22:16:53] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [03/Oct/2024 18:35:06] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [03/Oct/2024 21:43:30] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [03/Oct/2024 22:50:17] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [04/Oct/2024 22:03:02] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [04/Oct/2024 22:03:02] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [04/Oct/2024 22:03:02] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [04/Oct/2024 22:03:02] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [04/Oct/2024 22:03:02] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [04/Oct/2024 22:03:06] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [04/Oct/2024 22:03:07] code 404, message File not found
+172.17.0.2 - - [04/Oct/2024 22:03:07] code 404, message File not found
+172.17.0.2 - - [04/Oct/2024 22:03:07] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [04/Oct/2024 22:03:07] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [04/Oct/2024 22:03:07] code 404, message File not found
+172.17.0.2 - - [04/Oct/2024 22:03:07] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [04/Oct/2024 22:03:07] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [05/Oct/2024 05:51:56] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [05/Oct/2024 05:51:56] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [05/Oct/2024 05:51:56] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [05/Oct/2024 05:51:56] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [05/Oct/2024 05:52:01] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [05/Oct/2024 05:55:07] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [05/Oct/2024 10:16:28] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [05/Oct/2024 11:10:08] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [05/Oct/2024 11:15:48] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [05/Oct/2024 11:15:52] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [05/Oct/2024 11:15:52] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [05/Oct/2024 11:15:52] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [05/Oct/2024 11:15:53] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [05/Oct/2024 11:16:17] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [05/Oct/2024 11:39:00] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [05/Oct/2024 11:58:55] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [05/Oct/2024 12:08:40] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [06/Oct/2024 03:12:06] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Oct/2024 00:46:15] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Oct/2024 16:38:01] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [07/Oct/2024 16:38:01] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [07/Oct/2024 16:38:01] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [07/Oct/2024 16:38:01] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [07/Oct/2024 16:38:08] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Oct/2024 16:38:08] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [07/Oct/2024 16:38:08] code 404, message File not found
+172.17.0.2 - - [07/Oct/2024 16:38:08] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [07/Oct/2024 16:38:08] code 404, message File not found
+172.17.0.2 - - [07/Oct/2024 16:38:08] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [07/Oct/2024 16:38:08] code 404, message File not found
+172.17.0.2 - - [07/Oct/2024 16:38:08] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [07/Oct/2024 17:33:57] code 404, message File not found
+172.17.0.2 - - [07/Oct/2024 17:33:57] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [07/Oct/2024 17:33:57] code 404, message File not found
+172.17.0.2 - - [07/Oct/2024 17:33:57] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [07/Oct/2024 17:33:57] code 404, message File not found
+172.17.0.2 - - [07/Oct/2024 17:33:57] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [07/Oct/2024 17:33:57] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [07/Oct/2024 23:37:03] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [08/Oct/2024 01:22:20] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [08/Oct/2024 07:10:45] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [08/Oct/2024 14:07:28] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [08/Oct/2024 14:07:29] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [08/Oct/2024 14:07:29] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [08/Oct/2024 14:07:29] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [08/Oct/2024 14:07:29] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [08/Oct/2024 18:15:32] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [09/Oct/2024 00:03:46] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [09/Oct/2024 00:03:46] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [09/Oct/2024 00:03:46] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [09/Oct/2024 00:03:46] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [09/Oct/2024 00:03:46] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [09/Oct/2024 00:05:20] code 404, message File not found
+172.17.0.2 - - [09/Oct/2024 00:05:20] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [09/Oct/2024 00:05:20] code 404, message File not found
+172.17.0.2 - - [09/Oct/2024 00:05:20] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [09/Oct/2024 00:05:20] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [09/Oct/2024 00:05:20] code 404, message File not found
+172.17.0.2 - - [09/Oct/2024 00:05:20] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [09/Oct/2024 00:05:20] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [12/Oct/2024 08:32:26] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [12/Oct/2024 08:32:26] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [12/Oct/2024 08:32:26] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [12/Oct/2024 08:32:26] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [12/Oct/2024 08:32:26] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [12/Oct/2024 08:32:38] code 404, message File not found
+172.17.0.2 - - [12/Oct/2024 08:32:38] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+172.17.0.2 - - [12/Oct/2024 08:32:38] code 404, message File not found
+172.17.0.2 - - [12/Oct/2024 08:32:38] code 404, message File not found
+172.17.0.2 - - [12/Oct/2024 08:32:38] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.2 - - [12/Oct/2024 08:32:38] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+172.17.0.2 - - [12/Oct/2024 08:32:38] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [12/Oct/2024 08:32:39] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [12/Oct/2024 11:38:24] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [12/Oct/2024 11:38:28] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [12/Oct/2024 11:38:28] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [12/Oct/2024 11:38:28] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [12/Oct/2024 11:38:28] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [12/Oct/2024 11:38:55] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [12/Oct/2024 15:40:40] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [12/Oct/2024 15:40:42] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [12/Oct/2024 15:40:42] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [12/Oct/2024 15:40:42] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [12/Oct/2024 15:40:43] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [12/Oct/2024 15:41:06] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [12/Oct/2024 15:41:16] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [16/Oct/2024 18:21:42] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [16/Oct/2024 18:21:43] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [16/Oct/2024 18:21:43] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [16/Oct/2024 18:21:43] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [16/Oct/2024 18:21:43] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [19/Oct/2024 10:53:40] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [19/Oct/2024 10:53:43] "GET /slideshow-script.js HTTP/1.1" 200 -
+172.17.0.2 - - [19/Oct/2024 10:53:43] "GET /style.css HTTP/1.1" 200 -
+172.17.0.2 - - [19/Oct/2024 10:53:43] "GET /leaderboard.js HTTP/1.1" 200 -
+172.17.0.2 - - [19/Oct/2024 10:53:43] "GET /images/purple-flowers2.jpg HTTP/1.1" 200 -
+172.17.0.2 - - [19/Oct/2024 10:54:20] "GET /favicon.png HTTP/1.1" 200 -
+172.17.0.2 - - [19/Oct/2024 15:20:25] "GET / HTTP/1.1" 200 -
+172.17.0.2 - - [19/Oct/2024 15:20:27] "GET /style.css HTTP/1.1" 304 -
+172.17.0.2 - - [19/Oct/2024 15:20:27] "GET /slideshow-script.js HTTP/1.1" 304 -
+172.17.0.2 - - [19/Oct/2024 15:20:27] "GET /leaderboard.js HTTP/1.1" 304 -
+172.17.0.2 - - [19/Oct/2024 15:20:28] "GET /images/purple-flowers2.jpg HTTP/1.1" 304 -
+172.17.0.2 - - [19/Oct/2024 15:20:58] "GET /favicon.png HTTP/1.1" 304 -
+172.17.0.2 - - [19/Oct/2024 15:21:13] "GET / HTTP/1.1" 200 -
